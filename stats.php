@@ -12,7 +12,7 @@
 	* Şu projeden türetilmiştir (https://github.com/bainternet/Memchaced-Dashboard)
 	* Türkçe dil desteği eklenmiş, sayı gösterimleri binlik seperatör ile ayrılmış
 	* Veri kullanım değerleri byte değerlerden okunabilir değerlere dönüştürülmüştür
-	
+	*
 	* Simple Memchached Dashboard
 	* @version 0.2.0
 	* @author Sabri Ünal <yakushabb@gmail.com>
