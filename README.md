@@ -8,7 +8,7 @@ Forked from (https://github.com/bainternet/Memchaced-Dashboard)
 
 Turkish language support added, number display divided by thousands separator
 
-Data usage values are converted to readable values from byte values
+Data usage values converted to readable values from byte values
 
     * TÜRKÇE:
 Memcached server için basit bir istatistik sayfası
