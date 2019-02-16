@@ -1,20 +1,11 @@
-Simple Memchached Dashboard
+Simple Memchached Dashboard is a very simple stats page for Memcached server.
 
-	* ENGLISH:
+It's a forked project from (https://github.com/bainternet/Memchaced-Dashboard).
 
-Simple Stats page for Memcached server
+# Changelog
 
-Forked from (https://github.com/bainternet/Memchaced-Dashboard)
+* Turkish language support added.
+* Thousand separator added.
 
-Turkish language support added, number display divided by thousands separator
-
-Data usage values converted to readable values from byte values
-
-    * TÜRKÇE:
-Memcached server için basit bir istatistik sayfası
-
-Şu projeden türetilmiştir (https://github.com/bainternet/Memchaced-Dashboard)
-
-Türkçe dil desteği eklenmiş, sayı gösterimleri binlik seperatör ile ayrılmış
-
-Veri kullanım değerleri byte değerlerden okunabilir değerlere dönüştürülmüştür
+# License
+You may copy and reproduce the project under GPL V3 license.
